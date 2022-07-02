@@ -4,4 +4,4 @@
 ### The used CNN architecture resembles the following figure:
 ![CNN](https://github.com/MilenaTrajanoska/SemanticImageSegmentation/blob/master/images/unet.png)
 ### Results for segmenting animals:
-![Results](image.png)
+![Results](https://github.com/MilenaTrajanoska/SemanticImageSegmentation/blob/master/images/segmentation_results.jpg)
